@@ -1,5 +1,5 @@
 # Para utilizar este proyecto debes:
-- Clonar el repositorio: "https://github.com/MarceloOrtegaDev/practicos_multiplicar_sumar_Matrices.git"
+- Clonar el repositorio: "https://github.com/MarceloOrtegaDev/practicos_multiplicar_Matrices.git"
 - Utilizar uno de los backends
 
   ## Python
